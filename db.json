@@ -1,17 +1,81 @@
-
 {
   "tours": [
     {
       "id": 1,
       "name": "Tour Đà Nẵng",
-      "price": 1000000,
-      "description": "Tour du lịch Đà Nẵng 3 ngày 2 đêm"
+      "price": 1200000,
+      "description": "Tour du lịch Đà Nẵng 3 ngày 2 đêm",
+      "image": "https://picsum.photos/400/300?random=1",
+      "duration": "3 ngày 2 đêm",
+      "available": 10,
+      "category": "tour nội địa",
+      "active": true
     },
     {
       "id": 2,
       "name": "Tour Hà Nội",
       "price": 800000,
-      "description": "Tour du lịch Hà Nội 2 ngày 1 đêm"
+      "description": "Tour du lịch Hà Nội 2 ngày 1 đêm",
+      "image": "https://picsum.photos/400/300?random=2",
+      "duration": "2 ngày 1 đêm",
+      "available": 10,
+      "category": "tour nội địa",
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "Tour Hồ Chí Minh",
+      "price": 1000000,
+      "description": "Tour du lịch Hồ Chí Minh 3 ngày 2 đêm",
+      "image": "https://picsum.photos/400/300?random=3",
+      "duration": "3 ngày 2 đêm",
+      "available": 10,
+      "category": "tour nội địa",
+      "active": true
+    },
+    {
+      "id": 4,
+      "name": "Tour Sapa",
+      "price": 900000,
+      "description": "Tour du lịch Sapa 2 ngày 1 đêm",
+      "image": "https://picsum.photos/400/300?random=4",
+      "duration": "2 ngày 1 đêm",
+      "available": 10,
+      "category": "tour nội địa",
+      "active": true
+    },
+    {
+      "name": "hbdh",
+      "price": 20000,
+      "description": "ừad",
+      "image": "https://picsum.photos/400/300?random=3",
+      "available": 338,
+      "duration": "1242",
+      "category": "sahvzh",
+      "active": true,
+      "id": 5
+    },
+    {
+      "name": "sdfdsjkfd",
+      "price": 23434,
+      "description": "",
+      "image": "https://picsum.photos/400/300?random=3",
+      "available": null,
+      "duration": "",
+      "category": "",
+      "active": true,
+      "id": 6
+    },
+    {
+      "id": 7,
+      "name": "Đà Lạt 4N3D",
+      "duration": "4 ngày 3 đêm",
+      "price": 3200000,
+      "image": "https://picsum.photos/400/300?random=3",
+      "description": "Thành phố ngàn hoa với khí hậu mát mẻ quanh năm",
+      "available": 10,
+      "category": "tour nội địa",
+      "active": true
     }
   ]
 }
