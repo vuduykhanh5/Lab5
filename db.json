@@ -56,17 +56,6 @@
       "id": 5
     },
     {
-      "name": "sdfdsjkfd",
-      "price": 23434,
-      "description": "",
-      "image": "https://picsum.photos/400/300?random=3",
-      "available": null,
-      "duration": "",
-      "category": "",
-      "active": true,
-      "id": 6
-    },
-    {
       "id": 7,
       "name": "Đà Lạt 4N3D",
       "duration": "4 ngày 3 đêm",
@@ -76,6 +65,16 @@
       "available": 10,
       "category": "tour nội địa",
       "active": true
+    },
+    {
+      "name": "Vũ Khanh",
+      "price": 20000,
+      "description": "Sapa",
+      "image": "https://picsum.photos/400/300?random=3",
+      "duration": "1242",
+      "category": "sahvzh",
+      "active": true,
+      "id": 8
     }
   ]
 }
