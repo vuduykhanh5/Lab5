@@ -76,5 +76,12 @@
       "active": true,
       "id": 8
     }
+  ],
+  "users": [
+    {
+      "email": "vdkhanh204@gmail.com",
+      "password": "$2a$10$AfvIp8t9L7pgI./QaPKQd.cWapBcjwsEbnq7SYqCrLgkYVKtJtTEC",
+      "id": 1
+    }
   ]
 }
