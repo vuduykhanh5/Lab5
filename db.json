@@ -45,17 +45,6 @@
       "active": true
     },
     {
-      "name": "hbdh",
-      "price": 20000,
-      "description": "ừad",
-      "image": "https://picsum.photos/400/300?random=3",
-      "available": 338,
-      "duration": "1242",
-      "category": "sahvzh",
-      "active": true,
-      "id": 5
-    },
-    {
       "id": 7,
       "name": "Đà Lạt 4N3D",
       "duration": "4 ngày 3 đêm",
@@ -75,13 +64,34 @@
       "category": "sahvzh",
       "active": true,
       "id": 8
+    },
+    {
+      "name": "Trần Thị Admin",
+      "price": "250000",
+      "description": "3jdfjdsjks",
+      "image": "https://picsum.photos/400/300?random=3",
+      "duration": "2505",
+      "category": "sahvzh",
+      "active": true,
+      "id": 9,
+      "available": "239842837487234"
     }
   ],
   "users": [
     {
-      "email": "vdkhanh204@gmail.com",
-      "password": "$2a$10$AfvIp8t9L7pgI./QaPKQd.cWapBcjwsEbnq7SYqCrLgkYVKtJtTEC",
-      "id": 1
+      "id": 1,
+      "username": "admin",
+      "password": "admin123"
+    },
+    {
+      "id": 2,
+      "username": "user1",
+      "password": "user123"
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$YaH09lBUtEqpjNoLNu5URe4mjcu4Clpc1SACBsWlzt3TssIJcssPS",
+      "id": 3
     }
   ]
 }

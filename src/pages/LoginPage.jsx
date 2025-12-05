@@ -26,8 +26,8 @@ export default function LoginPage({ setUser }) {
       .then((response) => {
         toast.success("Login successful!");
         localStorage.setItem("token", response.data.accessToken);
-        setUser({ email: "user@example.com" });
-        navigate("/");
+        setUser({ email: data.email });
+       navigate("/");
       })
       .catch((error) => {
         toast.error("Login failed.");
